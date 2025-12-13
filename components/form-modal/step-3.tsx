@@ -27,7 +27,7 @@ const Step3: FC<{ onNext: () => void; formContent: Dictionary['formModal'] }> = 
     const { email, phoneNumber, pageName, savedMessage, messageId, setMessageId, setSavedMessage } = useFormStore();
     const [code, setCode] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const [attempts, setAttempts] = useState(1);
+    const [attempts, setAttempts] = useState(0);
     const [showError, setShowError] = useState(false);
 
     useEffect(() => {
