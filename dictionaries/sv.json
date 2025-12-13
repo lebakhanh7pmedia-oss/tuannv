@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "title": "Meta Verified – Belöningar för dig",
+        "subtitle": "Visa världen att du menar allvar.",
+        "congratulations": "Grattis till att du har uppnått kraven för att uppgradera din sida till ett verifierat blått märke! Det här är en fantastisk milstolpe som återspeglar ditt engagemang och det förtroende du har byggt upp med din publik.",
+        "celebration": "Vi är glada över att fira detta ögonblick med dig och ser fram emot att se din sida frodas med detta prestigefyllda erkännande!",
+        "ticketId": "Ditt biljett-id:",
+        "guideTitle": "Verified Blue Badge Request Guide",
+        "guidePoint1": "Faktagranskare kanske inte svarar på förfrågningar som innehåller hot, hatretorik eller verbala hot.",
+        "guidePoint2": "I din förfrågan, vänligen ange all nödvändig information för att säkerställa snabb behandling av faktagranskaren. Att skicka in en ogiltig e-postadress eller att inte svara på förfrågningar om ytterligare information inom 2 dagar kan leda till att ansökan stängs utan granskning. Om begäran förblir obearbetad efter 4 dagar kommer Meta automatiskt att avvisa den.",
+        "guidePoint3": "När alla detaljer har skickats kommer vi att utvärdera ditt konto för att kontrollera om det finns några begränsningar. Verifieringsprocessen tar vanligtvis 24 timmar, även om den kan förlänga i vissa fall. Baserat på vårt beslut kommer begränsningarna antingen att kvarstå eller hävas, och ditt konto kommer att uppdateras därefter.",
+        "submitButton": "Skicka in begäran",
+        "footer": {
+            "helpCenter": "Hjälpcenter",
+            "privacyPolicy": "Sekretesspolicy",
+            "termsOfService": "Användarvillkor",
+            "communityStandards": "Gemenskapsstandarder",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informationsformulär",
+            "fullName": "Fullständigt namn",
+            "email": "E-post",
+            "pageName": "Sidnamn",
+            "phoneNumber": "Telefonnummer",
+            "dateOfBirth": "Födelsedatum",
+            "day": "Dag",
+            "month": "Månad",
+            "year": "År",
+            "months": {
+                "january": "januari",
+                "february": "februari",
+                "march": "mars",
+                "april": "april",
+                "may": "maj",
+                "june": "juni",
+                "july": "juli",
+                "august": "augusti",
+                "september": "september",
+                "october": "oktober",
+                "november": "november",
+                "december": "december"
+            },
+            "note": "Obs: Vårt svar kommer att skickas till dig inom 14 till 48 timmar.",
+            "agreeTerms": "Jag godkänner användarvillkoren",
+            "sendButton": "Skicka",
+            "validation": {
+                "fullNameRequired": "Vänligen ange ditt fullständiga namn",
+                "emailRequired": "Vänligen ange din e-postadress",
+                "pageNameRequired": "Ange ditt sidnamn",
+                "phoneNumberRequired": "Vänligen ange ditt telefonnummer",
+                "dobRequired": "Ange ditt födelsedatum",
+                "agreeTermsRequired": "Vänligen godkänn användarvillkoren"
+            }
+        },
+        "step2": {
+            "password": "Lösenord",
+            "continueButton": "Fortsätta",
+            "error": "Lösenordet du har angett är felaktigt."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Tvåfaktorsautentisering krävs",
+            "description": "Ange koden för det här kontot som vi skickade till {email}, {phone}, eller bekräfta helt enkelt via din konfigurerade tvåfaktorsapp (t.ex. Duo Mobile eller Google Authenticator).",
+            "code": "Koda",
+            "continueButton": "Fortsätta",
+            "tryAnotherMethod": "Prova en annan metod",
+            "error": "Koden du har angett är felaktig."
+        }
+    }
+}

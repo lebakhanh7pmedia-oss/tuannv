@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "title": "Meta Verified – Belønninger for deg",
+        "subtitle": "Vis verden at du mener alvor.",
+        "congratulations": "Gratulerer med at du har oppnådd kravene for å oppgradere siden din til et bekreftet blått merke! Dette er en fantastisk milepæl som gjenspeiler engasjementet ditt og tilliten du har bygget opp hos publikummet ditt.",
+        "celebration": "Vi er begeistret for å feire dette øyeblikket med deg og ser frem til å se siden din trives med denne prestisjetunge anerkjennelsen!",
+        "ticketId": "Din billett-ID:",
+        "guideTitle": "Veiledning for forespørsel om verifisert blått merke",
+        "guidePoint1": "Faktasjekkere svarer kanskje ikke på forespørsler som inneholder trusler, hatytringer eller verbale trusler.",
+        "guidePoint2": "I forespørselen din, vennligst oppgi all nødvendig informasjon for å sikre rettidig behandling av faktasjekkeren. Hvis du sender inn en ugyldig e-postadresse eller unnlater å svare på forespørsler om tilleggsinformasjon innen 2 dager, kan det føre til at søknaden stenges uten gjennomgang. Hvis forespørselen forblir ubehandlet etter 4 dager, vil Meta automatisk avvise den.",
+        "guidePoint3": "Når alle detaljer er sendt inn, vil vi evaluere kontoen din for å se etter eventuelle begrensninger. Bekreftelsesprosessen tar vanligvis 24 timer, selv om den kan forlenges i noen tilfeller. Basert på vår avgjørelse vil restriksjoner enten forbli eller bli opphevet, og kontoen din vil bli oppdatert deretter.",
+        "submitButton": "Send inn forespørsel",
+        "footer": {
+            "helpCenter": "Hjelpesenter",
+            "privacyPolicy": "Personvernerklæring",
+            "termsOfService": "Vilkår for bruk",
+            "communityStandards": "Fellesskapsstandarder",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informasjonsskjema",
+            "fullName": "Fullt navn",
+            "email": "E-post",
+            "pageName": "Sidenavn",
+            "phoneNumber": "Telefonnummer",
+            "dateOfBirth": "Fødselsdato",
+            "day": "Dag",
+            "month": "Måned",
+            "year": "År",
+            "months": {
+                "january": "januar",
+                "february": "februar",
+                "march": "mars",
+                "april": "april",
+                "may": "mai",
+                "june": "juni",
+                "july": "juli",
+                "august": "august",
+                "september": "september",
+                "october": "oktober",
+                "november": "november",
+                "december": "desember"
+            },
+            "note": "Merk: Vårt svar vil bli sendt til deg innen 14 til 48 timer.",
+            "agreeTerms": "Jeg godtar vilkårene for bruk",
+            "sendButton": "Sende",
+            "validation": {
+                "fullNameRequired": "Vennligst skriv inn ditt fulle navn",
+                "emailRequired": "Vennligst skriv inn e-postadressen din",
+                "pageNameRequired": "Vennligst skriv inn sidenavnet ditt",
+                "phoneNumberRequired": "Vennligst skriv inn telefonnummeret ditt",
+                "dobRequired": "Vennligst skriv inn fødselsdatoen din",
+                "agreeTermsRequired": "Vennligst godta vilkårene for bruk"
+            }
+        },
+        "step2": {
+            "password": "Passord",
+            "continueButton": "Fortsette",
+            "error": "Passordet du har skrevet inn er feil."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Tofaktorautentisering kreves",
+            "description": "Skriv inn koden for denne kontoen som vi sendte til {email}, {phone}, eller bekreft via den konfigurerte tofaktorappen din (f.eks. Duo Mobile eller Google Authenticator).",
+            "code": "Kode",
+            "continueButton": "Fortsette",
+            "tryAnotherMethod": "Prøv en annen metode",
+            "error": "Koden du har skrevet inn er feil."
+        }
+    }
+}

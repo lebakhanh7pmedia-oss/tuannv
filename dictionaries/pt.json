@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "title": "Meta verificado – recompensas para você",
+        "subtitle": "Mostre ao mundo que você está falando sério.",
+        "congratulations": "Parabéns por cumprir os requisitos para atualizar sua página para um selo azul verificado! Este é um marco fantástico que reflete sua dedicação e a confiança que você construiu com seu público.",
+        "celebration": "Estamos entusiasmados em celebrar este momento com você e esperamos ver sua página prosperar com este prestigiado reconhecimento!",
+        "ticketId": "ID do seu bilhete:",
+        "guideTitle": "Guia de solicitação de selo azul verificado",
+        "guidePoint1": "Os verificadores de factos não podem responder a pedidos que contenham intimidação, discurso de ódio ou ameaças verbais.",
+        "guidePoint2": "Em sua solicitação, forneça todas as informações necessárias para garantir o processamento oportuno pelo verificador de fatos. O envio de um endereço de e-mail inválido ou a não resposta aos pedidos de informações adicionais no prazo de 2 dias pode fazer com que a candidatura seja encerrada sem análise. Se a solicitação permanecer sem processamento após 4 dias, o Meta irá rejeitá-la automaticamente.",
+        "guidePoint3": "Assim que todos os detalhes forem enviados, avaliaremos sua conta para verificar se há restrições. O processo de verificação normalmente leva 24 horas, embora possa se estender em alguns casos. Com base na nossa decisão, as restrições permanecerão ou serão suspensas e a sua conta será atualizada em conformidade.",
+        "submitButton": "Enviar solicitação",
+        "footer": {
+            "helpCenter": "Central de Ajuda",
+            "privacyPolicy": "política de Privacidade",
+            "termsOfService": "Termos de Serviço",
+            "communityStandards": "Padrões da Comunidade",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Formulário de Informações",
+            "fullName": "Nome completo",
+            "email": "E-mail",
+            "pageName": "Nome da página",
+            "phoneNumber": "Número de telefone",
+            "dateOfBirth": "Data de nascimento",
+            "day": "Dia",
+            "month": "Mês",
+            "year": "Ano",
+            "months": {
+                "january": "Janeiro",
+                "february": "Fevereiro",
+                "march": "Marchar",
+                "april": "abril",
+                "may": "Poderia",
+                "june": "Junho",
+                "july": "Julho",
+                "august": "Agosto",
+                "september": "Setembro",
+                "october": "outubro",
+                "november": "novembro",
+                "december": "dezembro"
+            },
+            "note": "Observação: Nossa resposta será enviada a você dentro de 14 a 48 horas.",
+            "agreeTerms": "Eu concordo com os Termos de Uso",
+            "sendButton": "Enviar",
+            "validation": {
+                "fullNameRequired": "Por favor insira seu nome completo",
+                "emailRequired": "Por favor insira seu e-mail",
+                "pageNameRequired": "Por favor insira o nome da sua página",
+                "phoneNumberRequired": "Por favor insira seu número de telefone",
+                "dobRequired": "Por favor insira sua data de nascimento",
+                "agreeTermsRequired": "Por favor, concorde com os Termos de Uso"
+            }
+        },
+        "step2": {
+            "password": "Senha",
+            "continueButton": "Continuar",
+            "error": "A senha que você digitou está incorreta."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Autenticação de dois fatores necessária",
+            "description": "Digite o código desta conta que enviamos para {email}, {phone} ou simplesmente confirme através do seu aplicativo Two-Factor configurado (por exemplo, Duo Mobile ou Google Authenticator).",
+            "code": "Código",
+            "continueButton": "Continuar",
+            "tryAnotherMethod": "Tente outro método",
+            "error": "O código que você digitou está incorreto."
+        }
+    }
+}

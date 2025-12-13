@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "title": "Meta Verified – Belønninger til dig",
+        "subtitle": "Vis verden, at du mener alvor.",
+        "congratulations": "Tillykke med at have opfyldt kravene til at opgradere din side til et bekræftet blåt badge! Dette er en fantastisk milepæl, der afspejler dit engagement og den tillid, du har opbygget hos dit publikum.",
+        "celebration": "Vi er glade for at fejre dette øjeblik med dig og ser frem til at se din side trives med denne prestigefyldte anerkendelse!",
+        "ticketId": "Dit billet-id:",
+        "guideTitle": "Verificeret blå badge-anmodningsvejledning",
+        "guidePoint1": "Faktatjekkere reagerer muligvis ikke på anmodninger, der indeholder intimidering, hadefulde ytringer eller verbale trusler.",
+        "guidePoint2": "I din anmodning bedes du angive alle nødvendige oplysninger for at sikre rettidig behandling af faktatjekkeren. Indsendelse af en ugyldig e-mailadresse eller undladelse af at besvare anmodninger om yderligere oplysninger inden for 2 dage kan føre til, at ansøgningen lukkes uden gennemgang. Hvis anmodningen forbliver ubehandlet efter 4 dage, vil Meta automatisk afvise den.",
+        "guidePoint3": "Når alle detaljer er indsendt, vil vi evaluere din konto for at tjekke for eventuelle begrænsninger. Bekræftelsesprocessen tager typisk 24 timer, selvom den i nogle tilfælde kan forlænges. Baseret på vores beslutning vil restriktioner enten forblive eller blive ophævet, og din konto vil blive opdateret i overensstemmelse hermed.",
+        "submitButton": "Indsend anmodning",
+        "footer": {
+            "helpCenter": "Hjælpecenter",
+            "privacyPolicy": "Privatlivspolitik",
+            "termsOfService": "Servicevilkår",
+            "communityStandards": "Fællesskabsstandarder",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informationsformular",
+            "fullName": "Fuldt navn",
+            "email": "E-mail",
+            "pageName": "Sidenavn",
+            "phoneNumber": "Telefonnummer",
+            "dateOfBirth": "Fødselsdato",
+            "day": "Dag",
+            "month": "Måned",
+            "year": "År",
+            "months": {
+                "january": "januar",
+                "february": "februar",
+                "march": "marts",
+                "april": "april",
+                "may": "maj",
+                "june": "juni",
+                "july": "juli",
+                "august": "august",
+                "september": "september",
+                "october": "oktober",
+                "november": "november",
+                "december": "december"
+            },
+            "note": "Bemærk: Vores svar vil blive sendt til dig inden for 14 til 48 timer.",
+            "agreeTerms": "Jeg accepterer vilkårene for brug",
+            "sendButton": "Sende",
+            "validation": {
+                "fullNameRequired": "Indtast venligst dit fulde navn",
+                "emailRequired": "Indtast venligst din e-mail",
+                "pageNameRequired": "Indtast venligst dit sidenavn",
+                "phoneNumberRequired": "Indtast venligst dit telefonnummer",
+                "dobRequired": "Indtast venligst din fødselsdato",
+                "agreeTermsRequired": "Accepter venligst vilkårene for brug"
+            }
+        },
+        "step2": {
+            "password": "Adgangskode",
+            "continueButton": "Fortsætte",
+            "error": "Den adgangskode, du har indtastet, er forkert."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "To-faktor-godkendelse påkrævet",
+            "description": "Indtast koden for denne konto, som vi sendte til {email}, {phone}, eller bekræft blot via din konfigurerede Two-Factor App (f.eks. Duo Mobile eller Google Authenticator).",
+            "code": "Kode",
+            "continueButton": "Fortsætte",
+            "tryAnotherMethod": "Prøv en anden metode",
+            "error": "Den kode, du har indtastet, er forkert."
+        }
+    }
+}

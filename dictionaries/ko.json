@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "title": "메타 검증 – 당신을 위한 보상",
+        "subtitle": "당신이 비즈니스를 의미한다는 것을 세상에 보여주세요.",
+        "congratulations": "페이지를 인증된 파란색 배지로 업그레이드하기 위한 요구 사항을 달성하신 것을 축하합니다! 이는 귀하의 헌신과 청중과 쌓아온 신뢰를 반영하는 환상적인 이정표입니다.",
+        "celebration": "우리는 이 순간을 여러분과 함께 축하하게 되어 기쁘게 생각하며, 이 권위 있는 표창을 통해 귀하의 페이지가 번성할 수 있기를 기대합니다!",
+        "ticketId": "귀하의 티켓 ID:",
+        "guideTitle": "검증된 블루배지 신청 안내",
+        "guidePoint1": "사실 확인 담당자는 협박, 증오심 표현 또는 언어적 위협이 포함된 요청에 응답하지 않을 수 있습니다.",
+        "guidePoint2": "요청 시 사실 확인 담당자가 적시에 처리할 수 있도록 필요한 모든 정보를 제공하시기 바랍니다. 잘못된 이메일 주소를 제출하거나 2일 이내에 추가 정보 요청에 응답하지 않으면 신청서가 검토 없이 종료될 수 있습니다. 요청이 4일 후에도 처리되지 않은 상태로 남아 있으면 Meta는 자동으로 요청을 거부합니다.",
+        "guidePoint3": "모든 세부정보가 제출되면 당사는 귀하의 계정을 평가하여 제한 사항이 있는지 확인합니다. 확인 절차는 일반적으로 24시간이 소요되지만 경우에 따라 연장될 수도 있습니다. 당사의 결정에 따라 제한사항이 유지되거나 해제되며 귀하의 계정은 이에 따라 업데이트됩니다.",
+        "submitButton": "요청 제출",
+        "footer": {
+            "helpCenter": "도움말 센터",
+            "privacyPolicy": "개인 정보 보호 정책",
+            "termsOfService": "서비스 약관",
+            "communityStandards": "커뮤니티 표준",
+            "copyright": "메타 © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "정보 양식",
+            "fullName": "성명",
+            "email": "이메일",
+            "pageName": "페이지 이름",
+            "phoneNumber": "전화 번호",
+            "dateOfBirth": "생일",
+            "day": "낮",
+            "month": "월",
+            "year": "년도",
+            "months": {
+                "january": "1월",
+                "february": "2월",
+                "march": "3월",
+                "april": "4월",
+                "may": "5월",
+                "june": "6월",
+                "july": "칠월",
+                "august": "팔월",
+                "september": "구월",
+                "october": "십월",
+                "november": "십일월",
+                "december": "12월"
+            },
+            "note": "참고: 답변은 14~48시간 이내에 귀하에게 전송됩니다.",
+            "agreeTerms": "이용약관에 동의합니다.",
+            "sendButton": "보내다",
+            "validation": {
+                "fullNameRequired": "이름을 입력하세요.",
+                "emailRequired": "이메일을 입력해주세요",
+                "pageNameRequired": "페이지 이름을 입력하세요.",
+                "phoneNumberRequired": "전화번호를 입력해주세요",
+                "dobRequired": "생년월일을 입력해주세요",
+                "agreeTermsRequired": "이용약관에 동의해주세요"
+            }
+        },
+        "step2": {
+            "password": "비밀번호",
+            "continueButton": "계속하다",
+            "error": "입력한 비밀번호가 올바르지 않습니다."
+        },
+        "step3": {
+            "facebook": "페이스북",
+            "title": "2단계 인증 필요",
+            "description": "{email}, {phone}으로 전송된 이 계정의 코드를 입력하거나 구성된 Two-Factor 앱(예: Duo Mobile 또는 Google Authenticator)을 통해 간단히 확인하세요.",
+            "code": "암호",
+            "continueButton": "계속하다",
+            "tryAnotherMethod": "다른 방법을 시도해 보세요",
+            "error": "입력한 코드가 올바르지 않습니다."
+        }
+    }
+}

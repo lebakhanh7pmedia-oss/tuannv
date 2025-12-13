@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "title": "Meta disahkan - ganjaran untuk anda",
+        "subtitle": "Tunjukkan dunia yang anda maksudkan perniagaan.",
+        "congratulations": "Tahniah untuk mencapai keperluan untuk menaik taraf halaman anda ke lencana biru yang disahkan! Ini adalah peristiwa penting yang mencerminkan dedikasi anda dan kepercayaan yang anda bina dengan penonton anda.",
+        "celebration": "Kami gembira untuk meraikan masa ini dengan anda dan berharap dapat melihat halaman anda berkembang dengan pengiktirafan berprestij ini!",
+        "ticketId": "ID tiket anda:",
+        "guideTitle": "Panduan permintaan lencana biru yang disahkan",
+        "guidePoint1": "Pemeriksa fakta mungkin tidak bertindak balas terhadap permintaan yang mengandungi intimidasi, ucapan benci, atau ancaman lisan.",
+        "guidePoint2": "Dalam permintaan anda, sila berikan semua maklumat yang diperlukan untuk memastikan pemprosesan tepat pada masanya oleh pemeriksa fakta. Mengemukakan alamat e -mel yang tidak sah atau gagal membalas permintaan untuk maklumat tambahan dalam masa 2 hari boleh menyebabkan permohonan ditutup tanpa semakan. Sekiranya permintaan itu tetap tidak diproses selepas 4 hari, Meta secara automatik akan menolaknya.",
+        "guidePoint3": "Sebaik sahaja semua butiran dikemukakan, kami akan menilai akaun anda untuk memeriksa sebarang sekatan. Proses pengesahan biasanya mengambil masa 24 jam, walaupun ia boleh dilanjutkan dalam beberapa kes. Berdasarkan keputusan kami, sekatan akan kekal atau diangkat, dan akaun anda akan dikemas kini dengan sewajarnya.",
+        "submitButton": "Hantar permintaan",
+        "footer": {
+            "helpCenter": "Pusat Bantuan",
+            "privacyPolicy": "Dasar Privasi",
+            "termsOfService": "Syarat Perkhidmatan",
+            "communityStandards": "Piawaian komuniti",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Borang maklumat",
+            "fullName": "Nama penuh",
+            "email": "E -mel",
+            "pageName": "Nama halaman",
+            "phoneNumber": "Nombor telefon",
+            "dateOfBirth": "Tarikh lahir",
+            "day": "Hari",
+            "month": "Bulan",
+            "year": "Tahun",
+            "months": {
+                "january": "Januari",
+                "february": "Februari",
+                "march": "Mac",
+                "april": "April",
+                "may": "Mei",
+                "june": "Jun",
+                "july": "Julai",
+                "august": "Ogos",
+                "september": "September",
+                "october": "Oktober",
+                "november": "November",
+                "december": "Disember"
+            },
+            "note": "Nota: Jawapan kami akan dihantar kepada anda dalam masa 14 hingga 48 jam.",
+            "agreeTerms": "Saya bersetuju dengan Syarat Penggunaan",
+            "sendButton": "Hantar",
+            "validation": {
+                "fullNameRequired": "Sila masukkan nama penuh anda",
+                "emailRequired": "Sila masukkan e -mel anda",
+                "pageNameRequired": "Sila masukkan nama halaman anda",
+                "phoneNumberRequired": "Sila masukkan nombor telefon anda",
+                "dobRequired": "Sila masukkan tarikh lahir anda",
+                "agreeTermsRequired": "Sila bersetuju dengan Syarat Penggunaan"
+            }
+        },
+        "step2": {
+            "password": "Kata laluan",
+            "continueButton": "Teruskan",
+            "error": "Kata laluan yang anda masukkan tidak betul."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Pengesahan dua faktor diperlukan",
+            "description": "Masukkan kod untuk akaun ini yang kami hantar ke {email}, {Phone}, atau hanya sahkan melalui aplikasi dua faktor yang dikonfigurasikan (mis. DUO Mobile atau Google Authenticator).",
+            "code": "Kod",
+            "continueButton": "Teruskan",
+            "tryAnotherMethod": "Cuba kaedah lain",
+            "error": "Kod yang telah anda masukkan tidak betul."
+        }
+    }
+}

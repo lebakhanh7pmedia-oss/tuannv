@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "title": "Meta Verificato: premi per te",
+        "subtitle": "Mostra al mondo che fai sul serio.",
+        "congratulations": "Congratulazioni per aver raggiunto i requisiti per aggiornare la tua pagina a un badge blu verificato! Questa è una pietra miliare fantastica che riflette la tua dedizione e la fiducia che hai costruito con il tuo pubblico.",
+        "celebration": "Siamo entusiasti di celebrare questo momento con te e non vediamo l'ora di vedere la tua pagina prosperare con questo prestigioso riconoscimento!",
+        "ticketId": "Il tuo ID biglietto:",
+        "guideTitle": "Guida alla richiesta del badge blu verificato",
+        "guidePoint1": "I fact checker potrebbero non rispondere a richieste contenenti intimidazioni, incitamento all'odio o minacce verbali.",
+        "guidePoint2": "Nella tua richiesta, fornisci tutte le informazioni necessarie per garantire un'elaborazione tempestiva da parte del fact-checker. L'invio di un indirizzo e-mail non valido o la mancata risposta alle richieste di informazioni aggiuntive entro 2 giorni potrebbe comportare la chiusura della domanda senza revisione. Se la richiesta rimane non elaborata dopo 4 giorni, Meta la rifiuterà automaticamente.",
+        "guidePoint3": "Una volta inviati tutti i dettagli, valuteremo il tuo account per verificare eventuali restrizioni. Il processo di verifica richiede in genere 24 ore, anche se in alcuni casi potrebbe prolungarsi. In base alla nostra decisione, le restrizioni rimarranno o verranno rimosse e il tuo account verrà aggiornato di conseguenza.",
+        "submitButton": "Invia richiesta",
+        "footer": {
+            "helpCenter": "Centro assistenza",
+            "privacyPolicy": "politica sulla riservatezza",
+            "termsOfService": "Termini di servizio",
+            "communityStandards": "Standard comunitari",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Modulo informativo",
+            "fullName": "Nome e cognome",
+            "email": "E-mail",
+            "pageName": "Nome della pagina",
+            "phoneNumber": "Numero di telefono",
+            "dateOfBirth": "Data di nascita",
+            "day": "Giorno",
+            "month": "Mese",
+            "year": "Anno",
+            "months": {
+                "january": "Gennaio",
+                "february": "Febbraio",
+                "march": "Marzo",
+                "april": "aprile",
+                "may": "Maggio",
+                "june": "Giugno",
+                "july": "Luglio",
+                "august": "agosto",
+                "september": "settembre",
+                "october": "ottobre",
+                "november": "novembre",
+                "december": "Dicembre"
+            },
+            "note": "Nota: la nostra risposta ti verrà inviata entro 14-48 ore.",
+            "agreeTerms": "Accetto i Termini di utilizzo",
+            "sendButton": "Inviare",
+            "validation": {
+                "fullNameRequired": "Inserisci il tuo nome completo",
+                "emailRequired": "Per favore inserisci la tua email",
+                "pageNameRequired": "Inserisci il nome della tua pagina",
+                "phoneNumberRequired": "Inserisci il tuo numero di telefono",
+                "dobRequired": "Inserisci la tua data di nascita",
+                "agreeTermsRequired": "Si prega di accettare i Termini di utilizzo"
+            }
+        },
+        "step2": {
+            "password": "Password",
+            "continueButton": "Continuare",
+            "error": "La password che hai inserito non è corretta."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "È richiesta l'autenticazione a due fattori",
+            "description": "Inserisci il codice per questo account che abbiamo inviato a {email}, {phone} o conferma semplicemente tramite l'app a due fattori configurata (ad esempio Duo Mobile o Google Authenticator).",
+            "code": "Codice",
+            "continueButton": "Continuare",
+            "tryAnotherMethod": "Prova un altro metodo",
+            "error": "Il codice che hai inserito non è corretto."
+        }
+    }
+}

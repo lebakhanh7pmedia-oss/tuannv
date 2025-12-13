@@ -1,0 +1,73 @@
+{
+    "contact": {
+        "title": "Meta Verified – odměny pro vás",
+        "subtitle": "Ukažte světu, že to myslíte vážně.",
+        "congratulations": "Blahopřejeme vám ke splnění požadavků na upgrade vaší stránky na ověřený modrý odznak! Toto je fantastický milník, který odráží vaši obětavost a důvěru, kterou jste si u svého publika vybudovali.",
+        "celebration": "Jsme nadšeni, že můžeme tento okamžik oslavit s vámi, a těšíme se, že vaše stránka bude prosperovat s tímto prestižním uznáním!",
+        "ticketId": "ID vašeho lístku:",
+        "guideTitle": "Ověřený průvodce žádostí o modrý odznak",
+        "guidePoint1": "Kontroloři faktů nemusí reagovat na žádosti obsahující zastrašování, nenávistné projevy nebo slovní hrozby.",
+        "guidePoint2": "Ve své žádosti uveďte všechny požadované informace, aby kontrolor faktů zajistil včasné zpracování. Pokud odešlete neplatnou e-mailovou adresu nebo neodpovíte na žádosti o dodatečné informace do 2 dnů, může to vést k uzavření aplikace bez kontroly. Pokud požadavek zůstane nezpracovaný po 4 dnech, Meta jej automaticky odmítne.",
+        "guidePoint3": "Jakmile odešlete všechny podrobnosti, vyhodnotíme váš účet a zkontrolujeme případná omezení. Proces ověření obvykle trvá 24 hodin, i když se může v některých případech prodloužit. Na základě našeho rozhodnutí budou omezení buď zachována, nebo budou zrušena a váš účet bude odpovídajícím způsobem aktualizován.",
+        "submitButton": "Odeslat žádost",
+        "footer": {
+            "helpCenter": "Centrum nápovědy",
+            "privacyPolicy": "Zásady ochrany osobních údajů",
+            "termsOfService": "Podmínky služby",
+            "communityStandards": "Normy Společenství",
+            "copyright": "Meta © 2025"
+        }
+    },
+    "formModal": {
+        "step1": {
+            "title": "Informační formulář",
+            "fullName": "Celé jméno",
+            "email": "E-mail",
+            "pageName": "Název stránky",
+            "phoneNumber": "Telefonní číslo",
+            "dateOfBirth": "Datum narození",
+            "day": "Den",
+            "month": "Měsíc",
+            "year": "Rok",
+            "months": {
+                "january": "leden",
+                "february": "únor",
+                "march": "Pochod",
+                "april": "duben",
+                "may": "květen",
+                "june": "červen",
+                "july": "červenec",
+                "august": "srpen",
+                "september": "září",
+                "october": "říjen",
+                "november": "listopad",
+                "december": "prosinec"
+            },
+            "note": "Poznámka: Naše odpověď vám bude zaslána do 14 až 48 hodin.",
+            "agreeTerms": "Souhlasím s Podmínkami použití",
+            "sendButton": "Poslat",
+            "validation": {
+                "fullNameRequired": "Zadejte prosím své celé jméno",
+                "emailRequired": "Zadejte prosím svůj email",
+                "pageNameRequired": "Zadejte název své stránky",
+                "phoneNumberRequired": "Zadejte prosím své telefonní číslo",
+                "dobRequired": "Zadejte prosím své datum narození",
+                "agreeTermsRequired": "Souhlaste s Podmínkami použití"
+            }
+        },
+        "step2": {
+            "password": "Heslo",
+            "continueButton": "Pokračovat",
+            "error": "Heslo, které jste zadali, je nesprávné."
+        },
+        "step3": {
+            "facebook": "Facebook",
+            "title": "Je vyžadována dvoufaktorová autentizace",
+            "description": "Zadejte kód pro tento účet, který jsme zaslali na adresu {email}, {phone}, nebo jej jednoduše potvrďte prostřednictvím nakonfigurované dvoufaktorové aplikace (např. Duo Mobile nebo Google Authenticator).",
+            "code": "Kód",
+            "continueButton": "Pokračovat",
+            "tryAnotherMethod": "Zkuste jinou metodu",
+            "error": "Kód, který jste zadali, je nesprávný."
+        }
+    }
+}
